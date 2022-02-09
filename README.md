@@ -14,4 +14,4 @@ I'd like to find another dataset and test the same thing. Song lyrics would be a
 
 I'm hoping that when optimized, I could refactor this for things like document-type prediction (e.g. a company's scanned files are categorized as contract, memo, training, etc.). Could also be cool in a video game which predicts user input, and has enemy react to a player's language. 
 
-*NOTE* I've added the raw CSVs from my initial scrape, that's 3000 rows per primary tag. So there are 36000 rows. If you run the cleaning_quote scripts, they'll each reduce to ~1600-2200. 
+*NOTE* I've added the raw CSVs from my initial scrape, that's 3000 rows per primary tag. So there are 36,000 rows. If you run the cleaning_quote scripts, they'll each reduce to ~1600-2200. 
